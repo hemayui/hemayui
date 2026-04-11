@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 CS student focused on cybersecurity, and open-source systems. 
 
